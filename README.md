@@ -5,7 +5,7 @@ This repository contains my learning materials, code examples, and projects rela
 ## 📚 Topics covered
 - Various NestJS concepts implemented
 - Example modules and services
-- Authentication implementations
+- Authentication implementationsa
 - Database integrations
 - API best practices
 - Microservices examples
@@ -36,7 +36,6 @@ cd nestjs-studies
 ```
 2. Install dependencies for a specific project:
 ```
-cd 01-basics
 npm install
 ```
 3. Run the application:
