@@ -31,7 +31,7 @@ This repository contains my learning materials, code examples, and projects rela
 ## ⚙️ How to use  
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/nestjs-studies.git
+git clone https://github.com/jotapesc/nestjs-studies.git
 cd nestjs-studies
 ```
 2. Install dependencies for a specific project:
